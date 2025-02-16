@@ -1,0 +1,157 @@
+Weather,Time,Day,Cost
+Sunny,Morning Rush Hour,Weekday,10
+Sunny,Morning Rush Hour,Weekend,15
+Sunny,Morning Rush Hour,Holiday,18
+Sunny,Midday,Weekday,3
+Sunny,Midday,Weekend,8
+Sunny,Midday,Holiday,11
+Sunny,Evening Rush Hour,Weekday,10
+Sunny,Evening Rush Hour,Weekend,15
+Sunny,Evening Rush Hour,Holiday,18
+Sunny,Night,Weekday,0
+Sunny,Night,Weekend,5
+Sunny,Night,Holiday,8
+Partly Cloudy,Morning Rush Hour,Weekday,12
+Partly Cloudy,Morning Rush Hour,Weekend,17
+Partly Cloudy,Morning Rush Hour,Holiday,20
+Partly Cloudy,Midday,Weekday,5
+Partly Cloudy,Midday,Weekend,10
+Partly Cloudy,Midday,Holiday,13
+Partly Cloudy,Evening Rush Hour,Weekday,12
+Partly Cloudy,Evening Rush Hour,Weekend,17
+Partly Cloudy,Evening Rush Hour,Holiday,20
+Partly Cloudy,Night,Weekday,2
+Partly Cloudy,Night,Weekend,7
+Partly Cloudy,Night,Holiday,10
+Heavy Rain,Morning Rush Hour,Weekday,20
+Heavy Rain,Morning Rush Hour,Weekend,25
+Heavy Rain,Morning Rush Hour,Holiday,28
+Heavy Rain,Midday,Weekday,13
+Heavy Rain,Midday,Weekend,18
+Heavy Rain,Midday,Holiday,21
+Heavy Rain,Evening Rush Hour,Weekday,20
+Heavy Rain,Evening Rush Hour,Weekend,25
+Heavy Rain,Evening Rush Hour,Holiday,28
+Heavy Rain,Night,Weekday,10
+Heavy Rain,Night,Weekend,15
+Heavy Rain,Night,Holiday,18
+Light Rain,Morning Rush Hour,Weekday,15
+Light Rain,Morning Rush Hour,Weekend,20
+Light Rain,Morning Rush Hour,Holiday,23
+Light Rain,Midday,Weekday,8
+Light Rain,Midday,Weekend,13
+Light Rain,Midday,Holiday,16
+Light Rain,Evening Rush Hour,Weekday,15
+Light Rain,Evening Rush Hour,Weekend,20
+Light Rain,Evening Rush Hour,Holiday,23
+Light Rain,Night,Weekday,5
+Light Rain,Night,Weekend,10
+Light Rain,Night,Holiday,13
+Windy,Morning Rush Hour,Weekday,15
+Windy,Morning Rush Hour,Weekend,20
+Windy,Morning Rush Hour,Holiday,23
+Windy,Midday,Weekday,8
+Windy,Midday,Weekend,13
+Windy,Midday,Holiday,16
+Windy,Evening Rush Hour,Weekday,15
+Windy,Evening Rush Hour,Weekend,20
+Windy,Evening Rush Hour,Holiday,23
+Windy,Night,Weekday,5
+Windy,Night,Weekend,10
+Windy,Night,Holiday,13
+Moderate Rain,Morning Rush Hour,Weekday,17
+Moderate Rain,Morning Rush Hour,Weekend,22
+Moderate Rain,Morning Rush Hour,Holiday,25
+Moderate Rain,Midday,Weekday,10
+Moderate Rain,Midday,Weekend,15
+Moderate Rain,Midday,Holiday,18
+Moderate Rain,Evening Rush Hour,Weekday,17
+Moderate Rain,Evening Rush Hour,Weekend,22
+Moderate Rain,Evening Rush Hour,Holiday,25
+Moderate Rain,Night,Weekday,7
+Moderate Rain,Night,Weekend,12
+Moderate Rain,Night,Holiday,15
+Mostly Cloudy,Morning Rush Hour,Weekday,15
+Mostly Cloudy,Morning Rush Hour,Weekend,20
+Mostly Cloudy,Morning Rush Hour,Holiday,23
+Mostly Cloudy,Midday,Weekday,8
+Mostly Cloudy,Midday,Weekend,13
+Mostly Cloudy,Midday,Holiday,16
+Mostly Cloudy,Evening Rush Hour,Weekday,15
+Mostly Cloudy,Evening Rush Hour,Weekend,20
+Mostly Cloudy,Evening Rush Hour,Holiday,23
+Mostly Cloudy,Night,Weekday,5
+Mostly Cloudy,Night,Weekend,10
+Mostly Cloudy,Night,Holiday,13
+Fog,Morning Rush Hour,Weekday,20
+Fog,Morning Rush Hour,Weekend,25
+Fog,Morning Rush Hour,Holiday,28
+Fog,Midday,Weekday,13
+Fog,Midday,Weekend,18
+Fog,Midday,Holiday,21
+Fog,Evening Rush Hour,Weekday,20
+Fog,Evening Rush Hour,Weekend,25
+Fog,Evening Rush Hour,Holiday,28
+Fog,Night,Weekday,10
+Fog,Night,Weekend,15
+Fog,Night,Holiday,18
+Thunderstorms,Morning Rush Hour,Weekday,25
+Thunderstorms,Morning Rush Hour,Weekend,30
+Thunderstorms,Morning Rush Hour,Holiday,33
+Thunderstorms,Midday,Weekday,18
+Thunderstorms,Midday,Weekend,23
+Thunderstorms,Midday,Holiday,26
+Thunderstorms,Evening Rush Hour,Weekday,25
+Thunderstorms,Evening Rush Hour,Weekend,30
+Thunderstorms,Evening Rush Hour,Holiday,33
+Thunderstorms,Night,Weekday,15
+Thunderstorms,Night,Weekend,20
+Thunderstorms,Night,Holiday,23
+Hail,Morning Rush Hour,Weekday,25
+Hail,Morning Rush Hour,Weekend,30
+Hail,Morning Rush Hour,Holiday,33
+Hail,Midday,Weekday,18
+Hail,Midday,Weekend,23
+Hail,Midday,Holiday,26
+Hail,Evening Rush Hour,Weekday,25
+Hail,Evening Rush Hour,Weekend,30
+Hail,Evening Rush Hour,Holiday,33
+Hail,Night,Weekday,15
+Hail,Night,Weekend,20
+Hail,Night,Holiday,23
+Light Snow,Morning Rush Hour,Weekday,16
+Light Snow,Morning Rush Hour,Weekend,21
+Light Snow,Morning Rush Hour,Holiday,24
+Light Snow,Midday,Weekday,9
+Light Snow,Midday,Weekend,14
+Light Snow,Midday,Holiday,17
+Light Snow,Evening Rush Hour,Weekday,16
+Light Snow,Evening Rush Hour,Weekend,21
+Light Snow,Evening Rush Hour,Holiday,24
+Light Snow,Night,Weekday,6
+Light Snow,Night,Weekend,11
+Light Snow,Night,Holiday,14
+Moderate Snow,Morning Rush Hour,Weekday,19
+Moderate Snow,Morning Rush Hour,Weekend,24
+Moderate Snow,Morning Rush Hour,Holiday,27
+Moderate Snow,Midday,Weekday,12
+Moderate Snow,Midday,Weekend,17
+Moderate Snow,Midday,Holiday,20
+Moderate Snow,Evening Rush Hour,Weekday,19
+Moderate Snow,Evening Rush Hour,Weekend,24
+Moderate Snow,Evening Rush Hour,Holiday,27
+Moderate Snow,Night,Weekday,9
+Moderate Snow,Night,Weekend,14
+Moderate Snow,Night,Holiday,17
+Heavy Snow,Morning Rush Hour,Weekday,20
+Heavy Snow,Morning Rush Hour,Weekend,25
+Heavy Snow,Morning Rush Hour,Holiday,28
+Heavy Snow,Midday,Weekday,13
+Heavy Snow,Midday,Weekend,18
+Heavy Snow,Midday,Holiday,21
+Heavy Snow,Evening Rush Hour,Weekday,20
+Heavy Snow,Evening Rush Hour,Weekend,25
+Heavy Snow,Evening Rush Hour,Holiday,28
+Heavy Snow,Night,Weekday,10
+Heavy Snow,Night,Weekend,15
+Heavy Snow,Night,Holiday,18
